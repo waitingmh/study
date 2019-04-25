@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280" src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1556184510512&di=9a483c0ca84df59070ea4610ed73f63f&imgtype=0&src=http%3A%2F%2Ffile2.rrxh5.cc%2Fg2%2Fc1%2F2018%2F06%2F25%2F1529860716565.jpg" alt="logo">
+  <img width="280" src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3100695217,1919388550&fm=26&gp=0.jpg" alt="logo">
 </p>
 
 ## Target
