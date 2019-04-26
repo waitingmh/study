@@ -25,7 +25,7 @@ module.exports = {
   serviceWorker: true,
   theme: 'vue',
   themeConfig: {
-    repo: 'jasonandjay/study',
+    repo: 'waitingmh/study',
 
     docsDir: 'src',
     editLinks: true,
@@ -33,7 +33,7 @@ module.exports = {
     locales: {
       '/': {
         label: '简体中文',
-        repo: 'jasonandjay/study',
+        repo: 'waitingmh/study',
       
         selectText: '选择语言',
         editLinkText: '帮助我们改进内容',
@@ -100,13 +100,13 @@ module.exports = {
           '/guide/': genSidebarConfig('指南'),
           '/zh/ali/': [{title:'阿里面试题'}],
           '/zh/vue/': [{title: 'Vue知识点', children: [
-            '', 'Es6', 'Es6方法扩展', 'Webpack', 'Babel', 'Promise', 'Vue 各种方法之间的区别', 'Vue组件', 'Vue路由', 'Vue动画', 'vue钩子函数', 'vuex'
+            '', 'Es6', 'Es6方法扩展', 'Webpack', 'Babel','defineProperty' ,'Promise', 'Vue 各种方法之间的区别', 'Vue组件', 'Vue路由', 'Vue动画', 'vue钩子函数', 'vuex'
           ]}],
           '/zh/react/': [{title: 'React知识点', children: [
             '', 'JSX', 'MVVM', 'Props', 'React生命周期', 'React组件', 'React路由', 'redux', 'redux中间件', '组件通信', '高阶组件'
           ]}],
           '/zh/miniapp/': [{title: '小程序知识点', children: [
-            '', 'WXS', 'wepy组件通信', '小程序事件', '小程序路由', '小程序组件', '小程序组件化'
+            '','WXS', 'wepy组件通信', '小程序事件', '小程序路由', '小程序组件', '小程序组件化'
           ]}]
         }
       }
