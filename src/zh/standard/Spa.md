@@ -84,8 +84,8 @@ changeCondition2(no)->hisPeplaceHistory->hisCodeReplaceHistory
     </div>
     <div id="router-view"></div>
 
-    <script>
-        function Router(params){
+<script>
+    function Router(params){
             // 记录routes配置
             this.routes = params.routes || [];
             // 记录路由模式
@@ -201,7 +201,7 @@ changeCondition2(no)->hisPeplaceHistory->hisCodeReplaceHistory
                 { path:'*', redirect:'/home'}
             ]
         });
-    </script>
+</script>
 </body>
 </html>
 ```
