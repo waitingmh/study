@@ -50,7 +50,4 @@ npm run build
 
 ![improve](/src/.vuepress/public//img/improve.png)
 
-## License
-
-MIT
 
